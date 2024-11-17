@@ -55,12 +55,9 @@ O menu deve ser exibido repetidamente até que o usuário escolha sair. Exemplo:
 
 Escolha uma opção: _
 
+Exemplo de Saída
 
----
-
- Exemplo de Saída
-
- Cadastro de Livro
+Cadastro de Livro
 
 Digite o nome do livro: O Pequeno Príncipe
 Digite o autor do livro: Antoine de Saint-Exupéry
@@ -91,9 +88,6 @@ Digite o novo ano de publicação (ou pressione Enter para manter o atual): 2000
 Digite o nome do livro que deseja excluir: O Pequeno Príncipe
 
 ✅ O livro 'O Pequeno Príncipe' foi excluído com sucesso!
-
-
----
 
  Dica para Começar
 1. Organize cada funcionalidade em uma função separada.
