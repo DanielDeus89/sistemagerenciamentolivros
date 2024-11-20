@@ -1,4 +1,4 @@
-﻿# sistemagerenciamentolivros
+﻿# Sistema de Gerenciamento de Livros
 
  Atividade: Sistema de Gerenciamento de Livros
 
